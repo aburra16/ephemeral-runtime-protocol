@@ -156,7 +156,7 @@ The Ephemeral Runtime Protocol fills a critical gap in AI agent infrastructure b
 
 ## Feedback and Discussion
 Have thoughts or questions about this README or the Ephemeral Runtime Protocol?  
-Join our [Discussions](https://github.com/yourusername/ephemeral-runtime-protocol/discussions) to share your ideas!
+Join our [Discussions](https://github.com/aburra16/ephemeral-runtime-protocol/discussions) to share your ideas!
 
 
 ---
