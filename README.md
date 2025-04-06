@@ -154,6 +154,11 @@ ERP enables secure handoffs between specialized agents:
 
 The Ephemeral Runtime Protocol fills a critical gap in AI agent infrastructure by providing a secure, standardized way to execute transient code. By complementing rather than competing with MCP, ERP creates a layered architecture where tool discovery and runtime management coexist without overlap. This approach draws from proven DevOps practices[^1][^4] while addressing AI-specific needs like LLM-generated code safety[^11][^14]. With community support, ERP could become the default execution layer for next-generation AI agents.
 
+## Feedback and Discussion
+Have thoughts or questions about this README or the Ephemeral Runtime Protocol?  
+Join our [Discussions](https://github.com/yourusername/ephemeral-runtime-protocol/discussions) to share your ideas!
+
+
 ---
 **Citations**[^1][^4][^5][^8][^9][^11][^12][^13][^14][^15][^16]
 
