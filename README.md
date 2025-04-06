@@ -102,11 +102,11 @@ Bidirectional integration layer:
 
 ```mermaid
 graph TD  
-    A[Agent Request] --&gt; B{ERP Gateway}  
-    B --&gt; C[Verify MCP Auth Token]  
-    C --&gt; D[Validate Code Signature]  
-    D --&gt; E[Check Resource Quotas]  
-    E --&gt; F[Launch Sandbox]  
+    A[Agent Request] --> B{ERP Gateway}  
+    B --> C[Verify MCP Auth Token]  
+    C --> D[Validate Code Signature]  
+    D --> E[Check Resource Quotas]  
+    E --> F[Launch Sandbox]  
 ```
 
 ---
