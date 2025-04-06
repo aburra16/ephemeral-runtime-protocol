@@ -100,13 +100,15 @@ Bidirectional integration layer:
 
 ### 3.2 Input Validation Workflow
 
-```mermaid  
+```markdown
+```  
 graph TD  
     A[Agent Request] --&gt; B{ERP Gateway}  
     B --&gt; C[Verify MCP Auth Token]  
     C --&gt; D[Validate Code Signature]  
     D --&gt; E[Check Resource Quotas]  
     E --&gt; F[Launch Sandbox]  
+```
 ```
 
 ---
